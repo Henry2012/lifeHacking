@@ -1,4 +1,5 @@
-# Case Studies
+Case Studies
+=============
 * Chrome (密码管理)
 	* chrome://chrome/settings/passwords
 	* Some tools
@@ -10,6 +11,12 @@
 		* 使用LastPass
 		* __UNCHECK__“启用自动填充功能后，只需点击一次即可填写多个网络表单”
 
+# Google Drive Spreadsheet
+	* $A$2: The column and the row do not change when copied.
+	* A$2: The row does not change when copied
+	* $A2: The column does not change when copied
+	* 调用其它的sheet: sheet_name!A5 （支持中文）
+	* COUNTA(A1:A5): 计算出一行中非空的单元格数目
 
 # References
 * [在Chrome浏览器中保存的密码有多安全](http://blog.jobbole.com/30922/)
