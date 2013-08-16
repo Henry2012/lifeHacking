@@ -11,18 +11,17 @@ Case Studies
 		* 使用LastPass
 		* __UNCHECK__“启用自动填充功能后，只需点击一次即可填写多个网络表单”
 
-# Google Drive Spreadsheet
+* Google Drive Spreadsheet
 	* $A$2: The column and the row do not change when copied.
 	* A$2: The row does not change when copied
 	* $A2: The column does not change when copied
 	* 调用其它的sheet: sheet_name!A5 （支持中文）
 	* COUNTA(A1:A5): 计算出一行中非空的单元格数目
 	
-# Wikipedia
+* Wikipedia
 	* [Create a book](http://www.quora.com/Wikipedia/What-are-some-of-the-best-hacks-for-using-Wikipedia) (Print/export)
 	
-
-# References
-* [在Chrome浏览器中保存的密码有多安全](http://blog.jobbole.com/30922/)
-* [用LastPass管理好你的密码](http://blog.jobbole.com/11195/)
+* References
+    * [在Chrome浏览器中保存的密码有多安全](http://blog.jobbole.com/30922/)
+    * [用LastPass管理好你的密码](http://blog.jobbole.com/11195/)
 	
