@@ -17,6 +17,10 @@ Case Studies
 	* $A2: The column does not change when copied
 	* 调用其它的sheet: sheet_name!A5 （支持中文）
 	* COUNTA(A1:A5): 计算出一行中非空的单元格数目
+	
+# Wikipedia
+	* [Create a book](http://www.quora.com/Wikipedia/What-are-some-of-the-best-hacks-for-using-Wikipedia) (Print/export)
+	
 
 # References
 * [在Chrome浏览器中保存的密码有多安全](http://blog.jobbole.com/30922/)
